@@ -1,0 +1,11 @@
+.blue {
+    font-size: 150px;
+}
+
+body {
+    background: radial-gradient(circle, white 10%, yellow);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
